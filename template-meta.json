@@ -1,0 +1,10 @@
+{
+  "name": "CTFd | Capture The Flag Platform with MariaDB",
+  "short_name": "CTFd Platform",
+  "description": "CTFd 3.8 CTF platform, MariaDB + Redis, admin ready on boot, files kept",
+  "category": "Other",
+  "image": "https://avatars.githubusercontent.com/u/18561578?v=4",
+  "card_desc": "CTFd for capture-the-flag events and security training: challenges, scoreboard and teams on MariaDB and Redis, with the admin created on first boot and challenge files on a volume.",
+  "deploy_marker": "two-workspaces/ctfd",
+  "published": false
+}
