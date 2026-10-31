@@ -6,5 +6,6 @@
   "image": "https://avatars.githubusercontent.com/u/18561578?v=4",
   "card_desc": "CTFd for capture-the-flag events and security training: challenges, scoreboard and teams on MariaDB and Redis, with the admin created on first boot and challenge files on a volume.",
   "deploy_marker": "two-workspaces/ctfd",
-  "published": false
+  "published": false,
+  "id": "13512bd6-be4d-4f10-b44a-a8978e1b7191"
 }
